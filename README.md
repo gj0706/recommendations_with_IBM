@@ -1,5 +1,5 @@
 # recommendations_with_IBM
-A recommender engine that analyzes the interactions users have with articles on the IBM Watson Studio platform, and makes recommendations to them about new articles you think they will like.
+This project implemented 3 different types of recommendation algorithms for the IBM Watson community. The goal is to make recommendations to the users about new articles they will like.
 
 
 ## Table of Contents
@@ -10,10 +10,20 @@ A recommender engine that analyzes the interactions users have with articles on 
 
 
 ## Project Description<a name="desc"></a>
+This project implemented the following:
+
+- Exploratory data analysis;
+
+- Rank based recommendations;
+
+- User-user based collaborative filtering;
+
+- Recommendation with SVD matrix factorization.
 
 
 ## Installation <a name="installation"></a>
 
+No particular installation needed. This project is built Python 3.7.4 and jupyter notebook 6.0.1.
 
 
 ## File Description<a name="files"></a>
