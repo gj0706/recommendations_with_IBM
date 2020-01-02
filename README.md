@@ -28,6 +28,7 @@ No particular installation needed. This project is built on Python 3.7.4 and jup
 
 ## File Description<a name="files"></a>
 
+The notebook `Recommendations_with_IBM.ipynb` contains all the code for data exploration and recommendations. 
 
 ## AcKnowledgements<a name="licensing"></a>
 
