@@ -23,7 +23,7 @@ This project implemented the following:
 
 ## Installation <a name="installation"></a>
 
-No particular installation needed. This project is built Python 3.7.4 and jupyter notebook 6.0.1.
+No particular installation needed. This project is built on Python 3.7.4 and jupyter notebook 6.0.1.
 
 
 ## File Description<a name="files"></a>
